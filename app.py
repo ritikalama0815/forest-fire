@@ -15,6 +15,7 @@ test_dataset = preprocess_dataset(test_dataset)
 val_dataset = preprocess_dataset(val_dataset)
 
 model = create_model()
+#train on train dataset, test on val dataset and train the model 20 times over the dataset
 history = train_model(model, train_dataset, val_dataset, epochs=20)
 
 evaluate_model(model, test_dataset)
