@@ -82,7 +82,4 @@ You can add other packages as needed, such as `Pillow` or `opencv-python` if use
 * Results, models, and predictions are saved to appropriate output directories as you define them.
 
 
-```
 
-Let me know if you want this converted into a `requirements.txt` as well or want to add sections for results, dataset source, or model performance.
-```
