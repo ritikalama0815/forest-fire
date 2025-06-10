@@ -1,4 +1,3 @@
-Sure! Here's a clean and GitHub-friendly version of the `README.md` file with no emojis and no formatting issues:
 
 ````markdown
 # Forest Fire Prediction Model
