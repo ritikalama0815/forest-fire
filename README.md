@@ -1,5 +1,5 @@
 
-````markdown
+
 # Forest Fire Prediction Model
 
 This project uses TensorFlow and image-based deep learning to classify whether a forest image shows fire or not. The project is organized for modular development, including training, evaluation, and prediction using a Convolutional Neural Network (CNN).
