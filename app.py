@@ -5,9 +5,9 @@ from scripts.train import train_model
 from scripts.evaluate import evaluate_model
 from scripts.predict import predict_image
 
-train_dataset = load_dataset('data/train')
-test_dataset = load_dataset('data/test')
-val_dataset = load_dataset('data/val')
+train_dataset = load_dataset('dataset/train')
+test_dataset = load_dataset('dataset/test')
+val_dataset = load_dataset('dataset/val')
 
 
 train_dataset = preprocess_dataset(train_dataset)

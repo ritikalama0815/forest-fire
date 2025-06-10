@@ -1,12 +1,7 @@
 tensorflow 
 pandas 
 matplotlib 
-seaborn 
 opencv-python
+keras
 
-flask 
-flask-cors 
-torch 
-transformers 
-Pillow 
 numpy
